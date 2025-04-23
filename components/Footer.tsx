@@ -14,7 +14,7 @@ export default function Footer(){
 
     return(
         <>
-        <div className="bg-gray-900 w-full ">
+        <div className="bg-gray-900 w-full max-w-[4000px]">
          <div className="flex flex-col md:flex-row  md:justify-between px-10 py-7 space-y-6 md:space-y-0">
             <div className=" space-y-2">
                 <h1 className="md:text-2xl font-bold">Feel free to reach me at: </h1>

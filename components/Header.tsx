@@ -22,7 +22,7 @@ export default function Header() {
     
     return(
         <>
-       <nav className="flex justify-between items-center p-3 bg-gray-900 md:sticky md:top-0 md:z-30">
+       <nav className="flex justify-between items-center p-3 bg-gray-900 md:sticky md:top-0 md:z-30 max-w-[4000px] w-full">
         <div  className='flex item-center  space-x-3'>
         <Image
         src="/images/me8.jpeg"

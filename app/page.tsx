@@ -33,8 +33,8 @@ export default function Home() {
                     <span className='font-bold text-2xl inline'><Typewriter
   options={{
     strings: [
-      "Web Developer",
-      "Cloud Applied Generative AI Student"
+      "Front-End Developer",
+      "Agentic AI Student"
     ],
     autoStart: true,
     loop: true,
